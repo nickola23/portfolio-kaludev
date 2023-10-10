@@ -1,0 +1,11 @@
+#aboutSec{
+    flex-direction: column;
+}
+.h1Desc{
+    font-size: calc(2rem);
+    font-weight: 500;
+}
+.colored{
+    color: blue;
+    font-weight: 700;
+}
